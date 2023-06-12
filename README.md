@@ -1,8 +1,16 @@
-# Hi there, I'm Ripaldo - aka [Alyuers64](https://www.instagram.com/alyuers_64/) 👋
+<h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64
+   /">Alyuers64</a></h1>
+   
+<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/lTY8pVIs76YOMDaDjY" height="80px" align="left" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/sanrioinc-sanrio-cinnamoroll-sanrio60-lTY8pVIs76YOMDaDjY">via GIPHY</a></p>
+   👋
+
+
 ## About me:
 
 - 🌱 I’m currently studying at Palangka Raya University (UPR)
 - 👯 I’m looking to collaborate as **Web Develover**
+
+<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230"> 
 
 ## Education:
 
@@ -12,7 +20,10 @@
  #### 2. [SMAN 1 Kahayan Hilir](https://sman1kahayanhilir.sch.id/) | MIPA | Pulang Pisau `2017-2020`
    - Member of the Youth Red Cross Organization (PMR)
 
+<img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
+
 ## Learning Experience:
+
 #### 1. [PT EDUCA SISFOMEDIA INDONESIA](https://www.gamelab.id/) | Front End Web Developer | Salatiga `August - December 2022`
    - Independent Study Participants (MSIB Batch 3)
 
@@ -49,22 +60,29 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-light-mode-only)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+<!-- [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/alyuers_64/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/alyuers_64/#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/alyuers_64/#gh-dark-mode-only) -->
 
 
 
 [webdev]: https://github.com/Alyuers64/
 
 
-<img align="right" height="150" src="https://media.tenor.com/_E8o4y2xWa4AAAAd/alyjam-alymew-jam.gif"  />
 
 
-<img src="https://raw.githubusercontent.com/Alyuers64/Alyuers64/output/snake.svg" alt="Snake animation" />
+
+
+
 
