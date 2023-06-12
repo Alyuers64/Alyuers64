@@ -32,6 +32,21 @@
 <br />
 
 ---
+
+### Visitors:
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Alyuers64/count.svg?"  />
+</div>
+
+### More info:
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alyuers64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alyuers64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alyuers64&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-light-mode-only)
@@ -46,3 +61,10 @@
 
 
 [webdev]: https://github.com/Alyuers64/
+
+
+<img align="right" height="150" src="https://media.tenor.com/_E8o4y2xWa4AAAAd/alyjam-alymew-jam.gif"  />
+
+
+<img src="https://raw.githubusercontent.com/Alyuers64/Alyuers64/output/snake.svg" alt="Snake animation" />
+
