@@ -1,23 +1,19 @@
 <h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64/">Alyuers64😉</a></h1>
 
 ## About me:
-
-
-
-
   <img align="right" height="100" width="80" src="https://media.tenor.com/VIrdreHaxiEAAAAi/alymew-aly.gif"/>
-
-
+  
+  
 - 🌱 I’m currently studying at Palangka Raya University (UPR)
 - 👯 I’m looking to collaborate as **Web Develover**
 - 📖 I’m like to learn new things
 
-
-
 ---
-<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230"> 
+
 
 ## Education:
+<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230">
+
 
 #### 1. [Universitas Palangka Raya (UPR)](https://www.upr.ac.id/) | Informatics Engineering | Palangka Raya `2020-Now`
    - Asistant Laboratorium of Digital System
@@ -27,17 +23,16 @@
 
 ---
 
+## Learning Experience:
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 
-
-## Learning Experience:
 
 #### 1. [PT EDUCA SISFOMEDIA INDONESIA](https://www.gamelab.id/) | Front End Web Developer | Salatiga `August - December 2022`
    - Independent Study Participants (MSIB Batch 3)
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="padding-right:10px;" />][webdev]
@@ -52,7 +47,7 @@
 
 ---
 
-### Visitors:
+## Visitors:
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/Alyuers64/count.svg?"  />
@@ -60,7 +55,7 @@
 
 ---
 
-### More info:
+## More info:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Alyuers64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -70,7 +65,7 @@
 
 ---
 
-### How to reach me :
+## How to reach me :
 
 <div align="left">
     <a href="https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/">
