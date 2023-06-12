@@ -12,8 +12,9 @@
 - 👯 I’m looking to collaborate as **Web Develover**
 - 📖 I’m like to learn new things
 
----
 
+
+---
 <img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230"> 
 
 ## Education:
