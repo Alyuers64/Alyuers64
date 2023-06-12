@@ -1,8 +1,8 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Ripaldo - aka [Alyuers64](https://www.instagram.com/alyuers_64/) 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
+
+- 🌱 I’m currently studying at Palangka Raya University
+- 👯 I’m looking to collaborate as [Web Developer]
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: vincentwidyan@gmail.com
