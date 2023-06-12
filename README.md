@@ -35,14 +35,14 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/alyuers_64/-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/alyuers_64/-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/alyuers_64/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/alyuers_64/#gh-dark-mode-only)
 
 
 
