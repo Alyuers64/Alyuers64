@@ -1,14 +1,13 @@
 <h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64
    /">Alyuers64</a></h1>
    
-<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/lTY8pVIs76YOMDaDjY" height="80px" align="left" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/sanrioinc-sanrio-cinnamoroll-sanrio60-lTY8pVIs76YOMDaDjY">via GIPHY</a></p>
-   👋
-
-
+   
 ## About me:
 
 - 🌱 I’m currently studying at Palangka Raya University (UPR)
 - 👯 I’m looking to collaborate as **Web Develover**
+
+---
 
 <img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230"> 
 
@@ -20,7 +19,10 @@
  #### 2. [SMAN 1 Kahayan Hilir](https://sman1kahayanhilir.sch.id/) | MIPA | Pulang Pisau `2017-2020`
    - Member of the Youth Red Cross Organization (PMR)
 
+---
+
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
+
 
 ## Learning Experience:
 
@@ -50,15 +52,19 @@
   <img src="https://profile-counter.glitch.me/Alyuers64/count.svg?"  />
 </div>
 
+---
+
 ### More info:
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Alyuers64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alyuers64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alyuers64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alyuers64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Alyuers64&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-### Connect with me:
+---
+
+### How to reach me :
 
 <div align="left">
     <a href="https://www.linkedin.com/in/ripaldo-alyura-7b4aa7242/">
@@ -68,6 +74,8 @@
     <a href="https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
 </div>
+
+---
 
 <!-- [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCbc4F_Z_JNic9AWRsltAMFg#gh-dark-mode-only)
