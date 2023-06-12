@@ -14,18 +14,17 @@
 
 ## Learning Experience:
 #### 1. [PT EDUCA SISFOMEDIA INDONESIA](https://www.gamelab.id/) | Front End Web Developer | Salatiga `August - December 2022`
-   - Learn HTML & CSS
-   - Learn Bootstraps & SASS
-   - Learn JavaScript & jQuery
-   
+   - Independent Study Participants (MSIB Batch 3)
+
 ---
 
 ### Languages and Tools:
 
+
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 
