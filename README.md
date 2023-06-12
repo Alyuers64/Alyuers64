@@ -2,7 +2,7 @@
 ## About me:
 
 - 🌱 I’m currently studying at Palangka Raya University
-- 👯 I’m looking to collaborate as [Web Developer]
+- 👯 I’m looking to collaborate as **[Web Develover]**
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: vincentwidyan@gmail.com
