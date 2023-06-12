@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64/">Alyuers64😉</a></h1>
    
-   
+  <img align="right" height="80" width="70" src="https://media.tenor.com/VIrdreHaxiEAAAAi/alymew-aly.gif"/>
 ## About me:
+
 
 - 🌱 I’m currently studying at Palangka Raya University (UPR)
 - 👯 I’m looking to collaborate as **Web Develover**
