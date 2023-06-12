@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64
-   /">Alyuers64</a></h1>
+<h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64/">Alyuers64😉</a></h1>
    
    
 ## About me:
