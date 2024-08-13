@@ -29,7 +29,9 @@
 
 #### 1. [PT EDUCA SISFOMEDIA INDONESIA](https://www.gamelab.id/) | Front End Web Developer | Salatiga `August - December 2022`
    - Independent Study Participants (MSIB Batch 3)
-     
+
+<img align='right' src="https://dataquest.co.id/wp-content/uploads/2023/10/cropped-DQ-1.png" width="230">
+
 #### 2. [PT DATAQUEST LEVERAGE INDONESIA](https://dataquest.co.id/) | Video Content Editor | Buahbatu, Kota Bandung `August - December 2023`
    - Apprenticeship (MBKM Mandiri Kampus Merdeka)
    - Learn About : UI/UX, Content Manager, LMS Moodle Administrator & LMS Moodle Developer 
