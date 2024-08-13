@@ -30,9 +30,12 @@
 #### 1. [PT EDUCA SISFOMEDIA INDONESIA](https://www.gamelab.id/) | Front End Web Developer | Salatiga `August - December 2022`
    - Independent Study Participants (MSIB Batch 3)
      
-#### 2. [PT DATAQUEST LEVERAGE INDONESIA](https://dataquest.co.id/) | Video Content Editor | Buahbatu, Kota Bandung `August - December 2023
+#### 2. [PT DATAQUEST LEVERAGE INDONESIA](https://dataquest.co.id/) | Video Content Editor | Buahbatu, Kota Bandung `August - December 2023`
    - Apprenticeship (MBKM Mandiri Kampus Merdeka)
-   - Learn About : UI/UX, Content Manager, LMS Moodle Administrator, LMS Moodle Developer & Assistant Lecturer for Big Data in Python at Telkom University
+   - Learn About : UI/UX, Content Manager, LMS Moodle Administrator & LMS Moodle Developer 
+
+#### 3. [Telkom University](https://telkomuniversity.ac.id/) | Assistant Lecturer |  Kota Bandung `December 2023`
+   - Assistant Lecturer for Big Data in Python In U-TEL MBA Class
 ---
 
 ## Languages and Tools:
