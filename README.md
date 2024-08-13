@@ -5,7 +5,7 @@
   
   
 - 🌱 I’m currently studying at Palangka Raya University (UPR)
-- 👯 I’m looking to collaborate as **System Develover**
+- 👯 I’m looking to collaborate as **Development of software and hardware systems**
 - 📖 I’m like to learn new things
 
 ---
