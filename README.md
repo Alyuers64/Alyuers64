@@ -12,7 +12,7 @@
 
 
 ## Education:
-<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230">
+<!--<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230">
 
 
 #### 1. [Universitas Palangka Raya (UPR)](https://www.upr.ac.id/) | Informatics Engineering | Palangka Raya `2020-Now`
