@@ -23,7 +23,7 @@
 
 ---
 
-## Learning Experience:
+## Experience:
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 
 
