@@ -8,7 +8,15 @@
 - 👯 I’m looking to collaborate as **Development of software and hardware systems**
 - 📖 I’m like to learn new things
 
+## Languages and Tools:
 
+[<img align="left" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Ar" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png" style="padding-right:10px;" />][webdev]
 
 ---
 
@@ -31,15 +39,7 @@
    - Assistant Lecturer for Big Data in Python In U-TEL MBA Class
 ---
 
-## Languages and Tools:
 
-[<img align="left" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Ar" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
