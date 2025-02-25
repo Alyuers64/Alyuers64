@@ -8,18 +8,7 @@
 - 👯 I’m looking to collaborate as **Development of software and hardware systems**
 - 📖 I’m like to learn new things
 
----
 
-
-## Education:
-<!--<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230">-->
-
-
-#### 1. [Universitas Palangka Raya (UPR)](https://www.upr.ac.id/) | Informatics Engineering | Palangka Raya `2020-Now`
-   - Asistant Laboratorium of Digital System
-   
- #### 2. [SMAN 1 Kahayan Hilir](https://sman1kahayanhilir.sch.id/) | MIPA | Pulang Pisau `2017-2020`
-   - Member of the Youth Red Cross Organization (PMR)
 
 ---
 
