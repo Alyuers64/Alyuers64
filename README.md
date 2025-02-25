@@ -8,6 +8,9 @@
 - 👯 I’m looking to collaborate as **Development of software and hardware systems**
 - 📖 I’m like to learn new things
 
+---
+
+
 ## Languages and Tools:
 
 [<img align="left" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" style="padding-right:10px;" />][webdev]
@@ -18,7 +21,9 @@
 [<img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Ar" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png" style="padding-right:10px;" />][webdev]
 
----
+
+<br />
+<br />
 
 ## Experience:
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
@@ -37,12 +42,6 @@
 
 #### 3. [TELKOM UNIVERSITY](https://telkomuniversity.ac.id/) | Assistant Lecturer |  Kota Bandung `December 2023`
    - Assistant Lecturer for Big Data in Python In U-TEL MBA Class
----
-
-
-
-<br />
-<br />
 
 ---
 
