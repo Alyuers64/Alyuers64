@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Ripaldo - aka <a href="https://github.com/Alyuers64/">Alyuers64😉</a></h1>
-
 ## About me:
   <img align="right" height="80" width="80" src="https://media.tenor.com/VIrdreHaxiEAAAAi/alymew-aly.gif"/>
   <br>
