@@ -2,6 +2,7 @@
 
 ## About me:
   <img align="right" height="80" width="80" src="https://media.tenor.com/VIrdreHaxiEAAAAi/alymew-aly.gif"/>
+  <br>
   
   
 - 👯 I’m looking to collaborate as **Development of software and hardware systems**
