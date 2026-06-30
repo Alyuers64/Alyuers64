@@ -6,8 +6,6 @@
 - 📖 I’m like to learn new things
 - 🚀 Interested in **Web Development, Artificial Intelligence, and Music Production**
 
-<br clear="right">
-
 ---
 
 ## Languages and Tools:
