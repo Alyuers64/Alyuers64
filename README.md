@@ -43,12 +43,6 @@
 
 ---
 
-## Visitors:
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Alyuers64/count.svg?"  />
-</div>
-
 ---
 
 ## How to reach me :
