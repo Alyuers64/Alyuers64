@@ -1,9 +1,12 @@
-## About me:
-  <img align="right" height="80" width="80" src="https://media.tenor.com/VIrdreHaxiEAAAAi/alymew-aly.gif"/>
-  <br>
+## About me
+
+<img align="right" width="80" src="https://media.tenor.com/VIrdreHaxiEAAAAi/alymew-aly.gif"/>
 
 - 👯 I’m looking to collaborate as **Development of software and hardware systems**
 - 📖 I’m like to learn new things
+- 🚀 Interested in **Web Development, Artificial Intelligence, and Music Production**
+
+<br clear="right">
 
 ---
 
