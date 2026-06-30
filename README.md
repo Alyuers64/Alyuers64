@@ -35,13 +35,11 @@
    - Apprenticeship (MBKM Mandiri Kampus Merdeka)
    - Learn About : UI/UX, Content Manager, LMS Moodle Administrator & LMS Moodle Developer 
 
-<img align='right' src="https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-utama.png" width="230">
+<img align='right' src="https://iggsfojb.com/assets/logo/logo-telu-white.png" width="230">
 
 #### 3. [TELKOM UNIVERSITY](https://telkomuniversity.ac.id/) | Assistant Lecturer |  Kota Bandung `December 2023`
    - Assistant Lecturer for Big Data in Python In U-TEL MBA Class
 <br>
-
----
 
 ---
 
